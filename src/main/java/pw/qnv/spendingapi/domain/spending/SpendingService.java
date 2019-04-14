@@ -1,4 +1,4 @@
-package pw.qnv.api.expenses.service;
+package pw.qnv.spendingapi.domain.spending;
 
 import org.springframework.stereotype.Service;
 
